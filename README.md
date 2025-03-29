@@ -1,2 +1,2 @@
-# Engine
-Projeto de site simples para uma arquiteta e urbanista
+# LP - Arquiterura e urbanismo
+Projeto de site simple para uma arquiteta e urbanismo.
